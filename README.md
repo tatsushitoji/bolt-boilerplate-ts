@@ -4,9 +4,10 @@ This is a simple boilerplate App built with[Slack's Bolt Framework](https://slac
 
 Enjoy slack Bolt! :zap:
 
-## TODOs
+## TODO
 
-- [ ] [Sync changes in your GitHub repository to glitch.com](https://github.com/glitch-tools/sync-glitch-cli)
+- [x] [Sync changes in your GitHub repository to glitch.com](https://github.com/glitch-tools/sync-glitch-cli)
 - [ ] test
+- [ ] writing usage
 
 etc…
