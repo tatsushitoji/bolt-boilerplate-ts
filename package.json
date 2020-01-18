@@ -3,7 +3,7 @@
   "license": "MIT",
   "author": "Tatsushi Toji <28854043+tatsushitoji@users.noreply.github.com>",
   "repository": "https://github.com/tatsushitoji/bolt-boilerplate-ts.git",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node -r dotenv/config ./src/index.ts",
