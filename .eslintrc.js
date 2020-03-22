@@ -14,7 +14,7 @@ module.exports = {
   parserOptions: {
     project: './tsconfig.json',
   },
-  plugins: ['@typescript-eslint', 'prettier'],
+  plugins: ['@typescript-eslint', 'simple-import-sort', 'prettier'],
   rules: {
     '@typescript-eslint/consistent-type-definitions': ['error', 'type'],
     '@typescript-eslint/explicit-function-return-type': 'off',
@@ -28,5 +28,6 @@ module.exports = {
         argsIgnorePattern: '^_',
       },
     ],
+    'simple-import-sort/sort': 'error',
   },
 }
